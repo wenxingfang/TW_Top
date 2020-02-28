@@ -1,0 +1,43 @@
+import math
+sys=[]
+sys.append(0.022)
+sys.append(0.055)
+sys.append(0.007)
+sys.append(0.126)
+sys.append(0.033)
+sys.append(0.052)
+sys.append(0.035)
+sys.append(0.043)
+sys.append(0.012)
+sys.append(0.021)
+sys.append(0.040)
+sys.append(0.138)
+sys.append(0.002)
+sys.append(0.000)
+sys.append(0.001)
+sys.append(0.061)
+sys.append(0.037)
+sys.append(0.007)
+sys.append(0.011)
+sys.append(0.029)
+sys.append(0.015)
+sys.append(0.207)
+sys.append(0.033)
+sys.append(0.053)
+sys.append(0.091)
+sys.append(0.033)
+sys.append(0.397)
+sys.append(0.059)
+sys.append(0.053)
+sys.append(0.005)
+sys.append(0.026)
+sys.append(0.037)
+sys.append(0.183)
+sys.append(0.009)
+sys.append(0.138)
+
+v = 0.0
+for i in sys:
+    v = v + i*i
+value=math.sqrt(v)
+print value

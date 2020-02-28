@@ -1,0 +1,13 @@
+bash /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/script_create_ws/cws_combined_Ctw_0.25_opposite.sh
+bash /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/script_create_ws/cws_combined_Ctw_0.05.sh
+bash /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/script_create_ws/cws_mumu_Cphiq_1.00.sh
+bash /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/script_create_ws/cws_emu_Ctg_0.50_opposite.sh
+bash /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/script_create_ws/cws_emu_Cphiq_0.30.sh
+bash /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/script_create_ws/cws_emu_Ctg_0.30.sh
+bash /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/script_create_ws/cws_combined_Ctg_0.05.sh
+bash /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/script_create_ws/cws_combined_Cphiq_0.50_opposite.sh
+bash /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/script_create_ws/cws_ee_Ctg_1.00.sh
+bash /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/script_create_ws/cws_mumu_Ctw_0.30.sh
+echo "AllCompleted"
+echo "AllCompleted"
+echo "AllCompleted"

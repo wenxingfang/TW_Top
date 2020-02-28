@@ -1,0 +1,12 @@
+hadd exp_combined_Cg.root ../output/higgsCombineexp_combined_Cg_r_*quant0.500.root
+hadd exp_combined_Cphiq.root ../output/higgsCombineexp_combined_Cphiq_r_*quant0.500.root
+hadd exp_combined_Ctw.root ../output/higgsCombineexp_combined_Ctw_r_*quant0.500.root
+hadd exp_combined_Ctg.root ../output/higgsCombineexp_combined_Ctg_r_*quant0.500.root
+hadd exp_combined_Cug.root ../output/higgsCombineexp_combined_Cug_r_*quant0.500.root
+hadd exp_combined_Ccg.root ../output/higgsCombineexp_combined_Ccg_r_*quant0.500.root
+hadd obs_combined_Cg.root ../output/higgsCombineobs_combined_Cg_r_*.root
+hadd obs_combined_Cphiq.root ../output/higgsCombineobs_combined_Cphiq_r_*.root
+hadd obs_combined_Ctw.root ../output/higgsCombineobs_combined_Ctw_r_*.root
+hadd obs_combined_Ctg.root ../output/higgsCombineobs_combined_Ctg_r_*.root
+hadd obs_combined_Cug.root ../output/higgsCombineobs_combined_Cug_r_*.root
+hadd obs_combined_Ccg.root ../output/higgsCombineobs_combined_Ccg_r_*.root

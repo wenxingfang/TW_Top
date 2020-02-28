@@ -1,0 +1,12 @@
+cp ../obs/Cphiq/log.txt obs_Cphiq_log.txt
+cp ../obs/Ctg/log.txt   obs_Ctg_log.txt
+cp ../obs/Ccg/log.txt   obs_Ccg_log.txt
+cp ../obs/Ctw/log.txt   obs_Ctw_log.txt
+cp ../obs/Cug/log.txt   obs_Cug_log.txt
+cp ../obs/Cg/log.txt    obs_Cg_log.txt
+cp ../exp/Ctw/log.txt   exp_Ctw_log.txt
+cp ../exp/Cg/log.txt    exp_Cg_log.txt
+cp ../exp/Cug/log.txt   exp_Cug_log.txt
+cp ../exp/Cphiq/log.txt exp_Cphiq_log.txt
+cp ../exp/Ctg/log.txt   exp_Ctg_log.txt
+cp ../exp/Ccg/log.txt   exp_Ccg_log.txt

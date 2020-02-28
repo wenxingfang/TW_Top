@@ -1,0 +1,4 @@
+cd /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/scan_script/output/
+eval `scramv1 runtime -sh`
+combine -M MultiDimFit /user/wenxing/Limits/CMSSW_7_4_7/src/LimitCode/TOP_EFT_0629/ws_20180901_emu_11_21_22/emu_Ctw_1.00.root         -m 125.7 -n obs_emu_Ctw_1j1t_2j1t_2j2t    --algo=grid --points=400  --setPhysicsModelParameterRanges r=-10,10
+echo "AllCompleted"

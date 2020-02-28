@@ -1,0 +1,12 @@
+cp ./exp/Ctw/impacts_exp_Ctw.pdf ./output         
+cp ./exp/Cg/impacts_exp_Cg.pdf ./output
+cp ./exp/Cug/impacts_exp_Cug.pdf ./output
+cp ./exp/Cphiq/impacts_exp_Cphiq.pdf ./output
+cp ./exp/Ctg/impacts_exp_Ctg.pdf ./output
+cp ./exp/Ccg/impacts_exp_Ccg.pdf ./output
+cp ./obs/Cphiq/impacts_obs_Cphiq.pdf ./output
+cp ./obs/Ctg/impacts_obs_Ctg.pdf ./output
+cp ./obs/Ccg/impacts_obs_Ccg.pdf ./output
+cp ./obs/Ctw/impacts_obs_Ctw.pdf ./output
+cp ./obs/Cug/impacts_obs_Cug.pdf ./output
+cp ./obs/Cg/impacts_obs_Cg.pdf ./output
